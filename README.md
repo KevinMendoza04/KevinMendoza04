@@ -1,7 +1,7 @@
 Hello there 👋
 I´m Kevin Mendoza Rodriguez, Software Developer Jr in training.
 - 🔭 I’m currently working on a project called Survivor on Mars.
-- 🌱 I’m currently learning Python language
+- 🌱 I’m currently learning Python language, HTML, CSS & JavaScript
 - 🎵 I'm passionate about music production and film making.
 - 📫 You can reach me at kevin-mendoza4@hotmail.com
 - 😄 Pronouns: *HIM*
