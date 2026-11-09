@@ -49,43 +49,6 @@ Currently focused on **Java, Spring Boot, Backend Development, and Software Arch
 
 ---
 
-### 🛠️ Featured Projects
-
-#### 1. HelpFlow — Backend API
-A backend project focused on ticket management and service operations.
-
-- Hexagonal Architecture.
-- Java & Spring Boot.
-- JWT authentication.
-- SLA management and ticket escalation.
-- Database migrations with Flyway.
-- Unit and integration testing.
-
-🔗 [Explore HelpFlow](https://github.com/KevinMendoza04/Pruebafinal)
-
-#### 2. SkillBridge AI — Backend Development
-Contributing to a platform that integrates artificial intelligence into learning and professional development.
-
-- Java & Spring Boot.
-- AI-powered analytics and insights.
-- Trend analysis and intelligent recommendations.
-- Backend business logic and API development.
-
-🔗 [Explore SkillBridge AI](https://github.com/Danilo-Doria/SkillBridge-AI-JAVA-Angular)
-
-#### 3. Eventify — Event Management API
-A Spring Boot project focused on event and venue management.
-
-- Spring MVC and REST APIs.
-- JPA & Hibernate.
-- CRUD operations and pagination.
-- DTOs and data validation.
-- Database persistence and migrations.
-
-🔗 [Explore Eventify](https://github.com/KevinMendoza04/SpringBootHU)
-
----
-
 ### 📈 My Development Journey
 
 I believe software development is about continuous learning, collaboration, and solving real-world problems.
